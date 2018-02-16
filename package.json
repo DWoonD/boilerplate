@@ -1,0 +1,11 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Um boilerplate para começar sites com pug, css e js de uma forma mais rápida e pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willian D. Santos",
+  "license": "MIT"
+}
